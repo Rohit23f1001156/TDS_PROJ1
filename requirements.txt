@@ -63,7 +63,7 @@ python-dotenv==1.0.0
 python-multipart==0.0.20
 pytz==2025.1
 regex==2024.11.6
-requests==2.31.0
+requests==2.32.0
 scikit-learn==1.6.1
 scipy==1.15.1
 setuptools==75.8.0
